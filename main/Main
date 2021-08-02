@@ -1,18 +1,19 @@
 if game.PlaceId == 2210085102 then
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/turkhub/turkhub/main/script/Naval-Warfare.lua')))()
 end)
 
 elseif game.PlaceId == 3956818381 then
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/turkhub/turkhub/main/mix/killauro.lua')))()
 end)
 
 elseif game.PlaceId == 13434 then
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/turkhub/turkhub/main/mix/killauro.lua')))()
 end)
 
 elseif game.PlaceId == 54345 then
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/turkhub/turkhub/main/mix/killauro.lua')))()
 end)
 
 elseif game.PlaceId == 654323456 then
-
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/turkhub/turkhub/main/mix/killauro.lua')))()
 end)
