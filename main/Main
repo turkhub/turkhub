@@ -1,1 +1,18 @@
-f
+if game.PlaceId == 2210085102 then
+end)
+
+elseif game.PlaceId == 3956818381 then
+
+end)
+
+elseif game.PlaceId == 13434 then
+
+end)
+
+elseif game.PlaceId == 54345 then
+
+end)
+
+elseif game.PlaceId == 654323456 then
+
+end)
